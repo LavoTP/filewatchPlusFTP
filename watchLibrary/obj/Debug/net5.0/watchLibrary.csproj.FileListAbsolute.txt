@@ -1,0 +1,24 @@
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\watchLibrary\bin\Debug\net5.0\watchLibrary.deps.json
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\watchLibrary\bin\Debug\net5.0\watchLibrary.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\watchLibrary\bin\Debug\net5.0\ref\watchLibrary.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\watchLibrary\bin\Debug\net5.0\watchLibrary.pdb
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.csprojAssemblyReference.cache
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.AssemblyInfoInputs.cache
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.AssemblyInfo.cs
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\ref\watchLibrary.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.pdb
+C:\Users\Topollo\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.csprojAssemblyReference.cache
+C:\Users\Topollo\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Topollo\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.AssemblyInfoInputs.cache
+C:\Users\Topollo\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.AssemblyInfo.cs
+C:\Users\Topollo\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Topollo\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.dll
+C:\Users\Topollo\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\ref\watchLibrary.dll
+C:\Users\Topollo\Desktop\FileWatch\watchLibrary\obj\Debug\net5.0\watchLibrary.pdb
+C:\Users\Topollo\Desktop\FileWatch\watchLibrary\bin\Debug\net5.0\watchLibrary.deps.json
+C:\Users\Topollo\Desktop\FileWatch\watchLibrary\bin\Debug\net5.0\watchLibrary.dll
+C:\Users\Topollo\Desktop\FileWatch\watchLibrary\bin\Debug\net5.0\ref\watchLibrary.dll
+C:\Users\Topollo\Desktop\FileWatch\watchLibrary\bin\Debug\net5.0\watchLibrary.pdb

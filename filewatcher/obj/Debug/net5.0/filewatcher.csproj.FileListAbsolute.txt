@@ -1,0 +1,64 @@
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.exe
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.dll.config
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.deps.json
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.runtimeconfig.json
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.runtimeconfig.dev.json
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\ref\filewatcher.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.pdb
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\Dapper.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\watchLibrary.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\watchLibrary.pdb
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.csprojAssemblyReference.cache
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.AssemblyInfoInputs.cache
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.AssemblyInfo.cs
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.csproj.CoreCompileInputs.cache
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.csproj.CopyComplete
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\ref\filewatcher.dll
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.pdb
+C:\Users\Nikita Mgoduka\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.genruntimeconfig.cache
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\ref\filewatcher.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.pdb
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.csprojAssemblyReference.cache
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.AssemblyInfoInputs.cache
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.AssemblyInfo.cs
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.csproj.CoreCompileInputs.cache
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.exe
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.dll.config
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.deps.json
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.runtimeconfig.json
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.runtimeconfig.dev.json
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\ref\filewatcher.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\filewatcher.pdb
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\Dapper.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\watchLibrary.dll
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\bin\Debug\net5.0\watchLibrary.pdb
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.csproj.CopyComplete
+C:\Users\Topollo\Desktop\FileWatch\filewatcher\obj\Debug\net5.0\filewatcher.genruntimeconfig.cache
